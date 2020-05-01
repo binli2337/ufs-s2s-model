@@ -37,4 +37,4 @@ module load g2tmpl/1.6.0
 
 #ESMF lib
 module use /nems/noscrub/emc.nemspara/soft/modulefiles
-module load esmf/8.0.0.test
+module load esmf/8.0.0_intel18
