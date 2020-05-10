@@ -22,5 +22,5 @@
 	url = https://github.com/NOAA-EMC/MOM6-interface
 [submodule "WW3"]
 	path = WW3
-	url = https://github.com/NOAA-EMC/WW3.git
-        branch = develop
+	url = https://github.com/binli2337/WW3.git
+        branch = wcoss2
