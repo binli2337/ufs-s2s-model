@@ -34,3 +34,7 @@
 	path = MOM6-interface/MOM6
 	url = https://github.com/NOAA-EMC/MOM6
 	branch = dev/emc
+[submodule "NEMSdatm"]
+	path = NEMSdatm
+	url = https://github.com/binli2337/NEMSdatm
+	branch = update10
